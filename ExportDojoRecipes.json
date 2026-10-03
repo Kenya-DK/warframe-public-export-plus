@@ -82804,7 +82804,7 @@
                     "ItemType": "/Lotus/Types/Items/MiscItems/OxiumAlloy"
                 }
             ],
-            "capacityCost": 3,
+            "capacityCost": 1,
             "requiredInVault": true
         },
         "/Lotus/Levels/ClanDojo/ComponentPropRecipes/DojoGroupedTeleporterRecipe": {

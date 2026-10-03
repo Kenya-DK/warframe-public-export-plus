@@ -1200,7 +1200,7 @@
         "name": "/Lotus/Language/G1Quests/FairyQuestMissionA",
         "description": "/Lotus/Language/G1Quests/FairyQuestMissionA",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_STORE_ITEM",
@@ -1224,7 +1224,7 @@
         "name": "/Lotus/Language/G1Quests/FairyQuestMissionBC",
         "description": "/Lotus/Language/G1Quests/FairyQuestMissionBC",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_STORE_ITEM",
@@ -1248,7 +1248,7 @@
         "name": "/Lotus/Language/G1Quests/FairyQuestMissionBC",
         "description": "/Lotus/Language/G1Quests/FairyQuestMissionBC",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_STORE_ITEM",
@@ -1301,7 +1301,7 @@
     "/Lotus/Types/Keys/GetClemQuest/GetClemQuestKeyA": {
         "name": "/Lotus/Language/G1Quests/GetClemObjectiveRescue",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -1316,7 +1316,7 @@
     "/Lotus/Types/Keys/GetClemQuest/GetClemQuestKeyB": {
         "name": "/Lotus/Language/G1Quests/GetClemObjectiveRetrieval",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -1331,7 +1331,7 @@
     "/Lotus/Types/Keys/GetClemQuest/GetClemQuestKeyC": {
         "name": "/Lotus/Language/G1Quests/GetClemObjectiveSurvival",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_STORE_ITEM",
@@ -1734,7 +1734,7 @@
     "/Lotus/Types/Keys/IndexQuest/IndexColonyDefenseQuestKey": {
         "name": "/Lotus/Language/G1Quests/IndexQuestStage1",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -1749,7 +1749,7 @@
     "/Lotus/Types/Keys/IndexQuest/IndexMissionAQuestKey": {
         "name": "/Lotus/Language/G1Quests/IndexQuestStage2345",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 15,
@@ -1759,7 +1759,7 @@
     "/Lotus/Types/Keys/IndexQuest/IndexMissionBQuestKey": {
         "name": "/Lotus/Language/G1Quests/IndexQuestStage2345",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 15,
@@ -1769,7 +1769,7 @@
     "/Lotus/Types/Keys/IndexQuest/IndexMissionCQuestKey": {
         "name": "/Lotus/Language/G1Quests/IndexQuestStage2345",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 18,
@@ -1779,7 +1779,7 @@
     "/Lotus/Types/Keys/IndexQuest/IndexMissionDQuestKey": {
         "name": "/Lotus/Language/G1Quests/IndexQuestStage2345",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 18,
@@ -1789,7 +1789,7 @@
     "/Lotus/Types/Keys/IndexQuest/IndexMissionEQuestKey": {
         "name": "/Lotus/Language/G1Quests/IndexQuestStage68",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 21,
@@ -1799,7 +1799,7 @@
     "/Lotus/Types/Keys/IndexQuest/IndexCorpusSpyQuestKey": {
         "name": "/Lotus/Language/G1Quests/IndexQuestStage7",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -1814,7 +1814,7 @@
     "/Lotus/Types/Keys/IndexQuest/IndexMissionFQuestKey": {
         "name": "/Lotus/Language/G1Quests/IndexQuestStage68",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 21,
@@ -2912,7 +2912,7 @@
         "name": "/Lotus/Language/ModQuest/ModQuestStage2",
         "description": "/Lotus/Language/ModQuest/ModQuestStage2",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 3,
@@ -2923,7 +2923,7 @@
         "name": "/Lotus/Language/ModQuest/ModQuestStage3",
         "description": "/Lotus/Language/ModQuest/ModQuestStage3",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "countedStoreItems": [
                 {
@@ -2947,7 +2947,7 @@
         "name": "/Lotus/Language/ModQuest/ModQuestStage5",
         "description": "/Lotus/Language/ModQuest/ModQuestStage5",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 3,
@@ -3465,7 +3465,7 @@
     "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyA": {
         "name": "/Lotus/Language/G1Quests/SecondDreamMission1",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -3480,7 +3480,7 @@
     "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyB": {
         "name": "/Lotus/Language/G1Quests/SecondDreamMission2",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -3495,7 +3495,7 @@
     "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyC": {
         "name": "/Lotus/Language/G1Quests/SecondDreamMission3",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -3510,7 +3510,7 @@
     "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyD": {
         "name": "/Lotus/Language/G1Quests/SecondDreamMission4",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -3525,7 +3525,7 @@
     "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyE": {
         "name": "/Lotus/Language/G1Quests/SecondDreamMission5",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -3540,7 +3540,7 @@
     "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyF": {
         "name": "/Lotus/Language/G1Quests/SecondDreamMission6",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -3638,7 +3638,7 @@
     "/Lotus/Types/Keys/PriestFrameQuest/PriestPalladinoRescueMisson": {
         "name": "/Lotus/Language/Quests/PriestPalladinoRescueMissionHint",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 5000
         },
@@ -3656,7 +3656,7 @@
     "/Lotus/Types/Keys/PriestFrameQuest/PriestDondaMazeMisson": {
         "name": "/Lotus/Language/Quests/PriestDondaMazeMissionHint",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500
         },
@@ -3674,7 +3674,7 @@
     "/Lotus/Types/Keys/PriestFrameQuest/PriestSiphon01Mission": {
         "name": "/Lotus/Language/Quests/PriestSiphonMissionHint",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500
         },
@@ -3692,7 +3692,7 @@
     "/Lotus/Types/Keys/PriestFrameQuest/PriestSiphon02Mission": {
         "name": "/Lotus/Language/Quests/PriestSiphonMissionHint",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500
         },
@@ -3710,7 +3710,7 @@
     "/Lotus/Types/Keys/PriestFrameQuest/PriestSiphon03Mission": {
         "name": "/Lotus/Language/Quests/PriestSiphonMissionHint",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500
         },
@@ -4083,7 +4083,7 @@
         "name": "/Lotus/Language/G1Quests/RailjackBuildQuest_Stage1Desc",
         "description": "/Lotus/Language/Railjack/RailjackComponentHuntKeyADesc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500,
             "items": [
@@ -4105,7 +4105,7 @@
         "name": "/Lotus/Language/G1Quests/RailjackBuildQuest_Stage10Desc",
         "description": "/Lotus/Language/Railjack/RailjackComponentHuntKeyCDesc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500,
             "items": [
@@ -4127,7 +4127,7 @@
         "name": "/Lotus/Language/G1Quests/RailjackBuildQuest_Stage4Desc",
         "description": "/Lotus/Language/Railjack/RailjackComponentHuntKeyDDesc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500,
             "items": [
@@ -4149,7 +4149,7 @@
         "name": "/Lotus/Language/G1Quests/RailjackBuildQuest_Stage7Desc",
         "description": "/Lotus/Language/Railjack/RailjackComponentHuntKeyEDesc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500,
             "items": [
@@ -4171,7 +4171,7 @@
         "name": "/Lotus/Language/G1Quests/RailjackBuildQuest_Stage13Desc",
         "description": "/Lotus/Language/Railjack/RailjackComponentHuntKeyFDesc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500,
             "items": [
@@ -4193,7 +4193,7 @@
         "name": "/Lotus/Language/G1Quests/RailjackBuildQuest_Stage16Desc",
         "description": "/Lotus/Language/Railjack/RailjackComponentHuntKeyBDesc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 2500,
             "items": [
@@ -4322,7 +4322,7 @@
     "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyEarth": {
         "name": "/Lotus/Language/Sacrifice/MissionTitle1",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -4337,7 +4337,7 @@
     "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyLua": {
         "name": "/Lotus/Language/Sacrifice/MissionTitle2",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "countedItems": [
                 {
@@ -4355,7 +4355,7 @@
     "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyTrackUmbraA": {
         "name": "/Lotus/Language/Sacrifice/MissionTitle3",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -4370,7 +4370,7 @@
     "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyTrackUmbraB": {
         "name": "/Lotus/Language/Sacrifice/MissionTitle4",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -4385,7 +4385,7 @@
     "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyTrackUmbraC": {
         "name": "/Lotus/Language/Sacrifice/MissionTitle5",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -4400,7 +4400,7 @@
     "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyEarthFinale": {
         "name": "/Lotus/Language/Sacrifice/MissionTitle6",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -4667,7 +4667,7 @@
         "name": "/Lotus/Language/G1Quests/SpyQuestMission1Title",
         "description": "/Lotus/Language/G1Quests/SpyQuestMission1Desc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 12,
@@ -4678,7 +4678,7 @@
         "name": "/Lotus/Language/G1Quests/SpyQuestMission2Title",
         "description": "/Lotus/Language/G1Quests/SpyQuestMission2Desc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 5000
         },
@@ -4692,7 +4692,7 @@
         "name": "/Lotus/Language/G1Quests/SpyQuestMission3Title",
         "description": "/Lotus/Language/G1Quests/SpyQuestMission3Desc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 5000
         },
@@ -4706,7 +4706,7 @@
         "name": "/Lotus/Language/G1Quests/SpyQuestMission4Title",
         "description": "/Lotus/Language/G1Quests/SpyQuestMission4Desc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "missionReward": {
             "credits": 5000
         },
@@ -4720,7 +4720,7 @@
         "name": "/Lotus/Language/G1Quests/SpyQuestMission5Title",
         "description": "/Lotus/Language/G1Quests/SpyQuestMission5Desc",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_STORE_ITEM",
@@ -5000,6 +5000,92 @@
             "minEnemyLevel": 45,
             "maxEnemyLevel": 50
         }
+    },
+    "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainA": {
+        "name": "/Lotus/Language/TauPrologue/QuestPartATitle",
+        "description": "/Lotus/Language/TauPrologue/QuestPartADesc",
+        "icon": "/Lotus/Interface/Quests/TauboundKeyChain.png",
+        "parentName": "/Lotus/Types/Game/KeyChainItem",
+        "codexSecret": false,
+        "replayable": true,
+        "chainStages": [
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Keys/TauPrologue/TauPrologueAStage1Lua",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": []
+            }
+        ]
+    },
+    "/Lotus/Types/Keys/TauPrologue/TauPrologueAStage1Lua": {
+        "name": "/Lotus/Language/TauPrologue/QuestPartAStage2",
+        "parentName": "/Lotus/Types/Game/KeyItem",
+        "codexSecret": true,
+        "rewards": [],
+        "mission": {}
+    },
+    "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainB": {
+        "name": "/Lotus/Language/TauPrologue/QuestPartBTitle",
+        "description": "/Lotus/Language/TauPrologue/QuestPartBDesc",
+        "icon": "/Lotus/Interface/Quests/TauboundKeyChain.png",
+        "parentName": "/Lotus/Types/Game/KeyChainItem",
+        "codexSecret": false,
+        "replayable": true,
+        "chainStages": [
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "key": "/Lotus/Types/Gameplay/ErisMortem/ErisMortemMissionKey",
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": []
+            }
+        ]
+    },
+    "/Lotus/Types/Gameplay/ErisMortem/ErisMortemMissionKey": {
+        "name": "/Lotus/Language/TauPrologue/KeychainBMission",
+        "parentName": "/Lotus/Types/Game/KeyItem",
+        "codexSecret": true,
+        "rewards": [],
+        "mission": {}
+    },
+    "/Lotus/Types/Keys/TauPrologue/TauPrologueKeyChainC": {
+        "name": "/Lotus/Language/TauPrologue/QuestPartCTitle",
+        "description": "/Lotus/Language/TauPrologue/QuestPartCDesc",
+        "icon": "/Lotus/Interface/Quests/TauboundKeyChain.png",
+        "parentName": "/Lotus/Types/Game/KeyChainItem",
+        "codexSecret": false,
+        "replayable": true,
+        "chainStages": [
+            {
+                "itemsToGiveWhenTriggered": []
+            },
+            {
+                "itemsToGiveWhenTriggered": [],
+                "messageToSendWhenTriggered": {
+                    "sender": "/Lotus/Language/Menu/Mailbox_WarframeSender_PostWar",
+                    "title": "/Lotus/Language/TauPrologue/InboxMessageSubject",
+                    "body": "/Lotus/Language/TauPrologue/InboxMessageBody",
+                    "attachments": [],
+                    "countedAttachments": [],
+                    "icon": "/Lotus/Interface/Icons/Npcs/Lotus_d.png",
+                    "transmission": "/Lotus/Sounds/Dialog/RoadToTau/DPrologueTauInbox0800Lotus",
+                    "highPriority": true
+                }
+            }
+        ]
     },
     "/Lotus/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain": {
         "name": "/Lotus/Language/G1Quests/VorsPrizeKeychain",
@@ -5307,7 +5393,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyTeshinCaptureA": {
         "name": "/Lotus/Language/G1Quests/WarWithin2",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5322,7 +5408,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyTeshinCaptureB": {
         "name": "/Lotus/Language/G1Quests/WarWithin4",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5337,7 +5423,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyArchwing": {
         "name": "/Lotus/Language/G1Quests/WarWithin6",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5352,7 +5438,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyQueensFortress": {
         "name": "/Lotus/Language/G1Quests/WarWithin7",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5366,7 +5452,7 @@
     },
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyLisetA": {
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5381,7 +5467,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyMountainPassA": {
         "name": "/Lotus/Language/G1Quests/WarWithin8",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5396,7 +5482,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyMawPit": {
         "name": "/Lotus/Language/G1Quests/WarWithin10",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5411,7 +5497,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyTheMirror": {
         "name": "/Lotus/Language/G1Quests/WarWithin11",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5426,7 +5512,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyLisetB": {
         "name": "/Lotus/Language/G1Quests/WarWithin12",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5441,7 +5527,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyQueensFight": {
         "name": "/Lotus/Language/G1Quests/WarWithin13",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5456,7 +5542,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyLisetC": {
         "name": "/Lotus/Language/G1Quests/WarWithin14",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -5471,7 +5557,7 @@
     "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyMountainPassB": {
         "name": "/Lotus/Language/G1Quests/WarWithin15",
         "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
+        "codexSecret": false,
         "rewards": [
             {
                 "rewardType": "RT_CREDITS",
@@ -6000,55 +6086,6 @@
             "maxEnemyLevel": 6
         }
     },
-    "/Lotus/Types/Keys/ColonistRescueBonusKey": {
-        "name": "/Lotus/Language/G1Quests/ColonistRescueEventMissionTitleHard",
-        "description": "/Lotus/Language/G1Quests/ColonistRescueEventMissionDescHard",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 55,
-            "maxEnemyLevel": 60
-        }
-    },
-    "/Lotus/Types/Keys/ColonistRescueEasyKey": {
-        "name": "/Lotus/Language/G1Quests/ColonistRescueEventMissionTitleEasy",
-        "description": "/Lotus/Language/G1Quests/ColonistRescueEventMissionDescEasy",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 15
-        }
-    },
-    "/Lotus/Types/Keys/ColonistRescueHardKey": {
-        "name": "/Lotus/Language/G1Quests/ColonistRescueEventMissionTitleHard",
-        "description": "/Lotus/Language/G1Quests/ColonistRescueEventMissionDescHard",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 35
-        }
-    },
-    "/Lotus/Types/Keys/ColonistRescueMediumKey": {
-        "name": "/Lotus/Language/G1Quests/ColonistRescueEventMissionTitleMedium",
-        "description": "/Lotus/Language/G1Quests/ColonistRescueEventMissionDescMedium",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "items": [
-                "/Lotus/StoreItems/Upgrades/Skins/Armor/GrineerTurbines/WraithTurbinesArmArmor"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 25
-        }
-    },
     "/Lotus/Types/Keys/CorpusCaptureKey": {
         "name": "/Lotus/Language/Items/CorpusVoidKeyName",
         "description": "/Lotus/Language/Items/CorpusVoidKeyDesc",
@@ -6058,25 +6095,6 @@
         "mission": {
             "minEnemyLevel": 10,
             "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/DevilTower/DevilTowerKey": {
-        "name": "/Lotus/Language/Items/VoidKeyName",
-        "description": "/Lotus/Language/Items/VoidKeyDesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "countedItems": [
-                {
-                    "ItemCount": 60,
-                    "ItemType": "/Lotus/Types/Items/MiscItems/Kuva"
-                }
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 65,
-            "maxEnemyLevel": 65
         }
     },
     "/Lotus/Types/Keys/DojoCustomObstacleCourseKey": {
@@ -6399,74 +6417,6 @@
             "maxEnemyLevel": 20
         }
     },
-    "/Lotus/Types/Keys/GetClemQuest/GetClemWeeklyMissionKeyA": {
-        "name": "/Lotus/Language/G1Quests/GetClemWeeklyObjective",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/ClemCloneRewards"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 25
-        }
-    },
-    "/Lotus/Types/Keys/GetClemQuest/GetClemWeeklyMissionKeyB": {
-        "name": "/Lotus/Language/G1Quests/GetClemWeeklyObjective",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/ClemCloneRewards"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 25
-        }
-    },
-    "/Lotus/Types/Keys/GetClemQuest/GetClemWeeklyMissionKeyC": {
-        "name": "/Lotus/Language/G1Quests/GetClemWeeklyObjective",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/ClemCloneRewards"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 25
-        }
-    },
-    "/Lotus/Types/Keys/GetClemQuest/GetClemWeeklyMissionKeyD": {
-        "name": "/Lotus/Language/G1Quests/GetClemWeeklyObjective",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "droptable": "/Lotus/Types/Game/MissionDecks/ClemCloneRewards"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 25
-        }
-    },
-    "/Lotus/Types/Keys/GetClemQuest/GetClemWeeklyMissionKeyE": {
-        "name": "/Lotus/Language/G1Quests/GetClemWeeklyObjective",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "droptable": "/Lotus/Types/Game/MissionDecks/ClemCloneRewards"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 25
-        }
-    },
     "/Lotus/Types/Keys/GlassQuest/GlassQuestPlainsKey": {
         "name": "/Lotus/Language/GlassQuest/M2KeychainObjective",
         "parentName": "/Lotus/Types/Game/KeyItem",
@@ -6519,16 +6469,6 @@
                 "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/GrendelSystemsBlueprint"
             ]
         },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 25,
-            "maxEnemyLevel": 30
-        }
-    },
-    "/Lotus/Types/Keys/IndexQuest/IndexDefenseQuestKey": {
-        "name": "/Lotus/Language/G1Quests/IndexTitle",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
         "rewards": [],
         "mission": {
             "minEnemyLevel": 25,
@@ -7319,381 +7259,6 @@
         "rewards": [],
         "mission": {}
     },
-    "/Lotus/Types/Keys/OrokinCaptureKeyA": {
-        "name": "/Lotus/Language/Items/OrokinCaptureKeyAName",
-        "description": "/Lotus/Language/Items/OrokinCaptureKeyADesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/OrokinCaptureKeyB": {
-        "name": "/Lotus/Language/Items/OrokinCaptureKeyBName",
-        "description": "/Lotus/Language/Items/OrokinCaptureKeyBDesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 11000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsB"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 30
-        }
-    },
-    "/Lotus/Types/Keys/OrokinCaptureKeyC": {
-        "name": "/Lotus/Language/Items/OrokinCaptureKeyCName",
-        "description": "/Lotus/Language/Items/OrokinCaptureKeyCDesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsC"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 40
-        }
-    },
-    "/Lotus/Types/Keys/OrokinDefenseKeyA": {
-        "name": "/Lotus/Language/Items/OrokinKeyFName",
-        "description": "/Lotus/Language/Items/OrokinKeyFDescription",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 15
-        }
-    },
-    "/Lotus/Types/Keys/OrokinDefenseKeyB": {
-        "name": "/Lotus/Language/Items/OrokinKeyGName",
-        "description": "/Lotus/Language/Items/OrokinKeyGDescription",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 15000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsB"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/OrokinDefenseKeyC": {
-        "name": "/Lotus/Language/Items/OrokinKeyHName",
-        "description": "/Lotus/Language/Items/OrokinKeyHDescription",
-        "parentName": "/Lotus/Types/Keys/OrokinDefenseKeyB",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsC"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 25
-        }
-    },
-    "/Lotus/Types/Keys/OrokinKeyA": {
-        "name": "/Lotus/Language/Items/OrokinKeyAName",
-        "description": "/Lotus/Language/Items/OrokinKeyADescription",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/OrokinKeyB": {
-        "name": "/Lotus/Language/Items/OrokinSurvivalKey1",
-        "description": "/Lotus/Language/Items/OrokinSurvivalKey1Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 15
-        }
-    },
-    "/Lotus/Types/Keys/OrokinKeyC": {
-        "name": "/Lotus/Language/Items/OrokinKeyCName",
-        "description": "/Lotus/Language/Items/OrokinKeyCDescription",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 11000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsB"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 30
-        }
-    },
-    "/Lotus/Types/Keys/OrokinKeyD": {
-        "name": "/Lotus/Language/Items/OrokinSurvivalKey2",
-        "description": "/Lotus/Language/Items/OrokinSurvivalKey2Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 11000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsB"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/OrokinKeyE": {
-        "name": "/Lotus/Language/Items/OrokinKeyEName",
-        "description": "/Lotus/Language/Items/OrokinKeyEDescription",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsC"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 40
-        }
-    },
-    "/Lotus/Types/Keys/OrokinMobileDefenseKeyA": {
-        "name": "/Lotus/Language/Items/OrokinMobileDefenseKeyAName",
-        "description": "/Lotus/Language/Items/OrokinMobileDefenseKeyADesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/OrokinMobileDefenseKeyB": {
-        "name": "/Lotus/Language/Items/OrokinMobileDefenseKeyBName",
-        "description": "/Lotus/Language/Items/OrokinMobileDefenseKeyBDesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 11000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsB"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 30
-        }
-    },
-    "/Lotus/Types/Keys/OrokinMobileDefenseKeyC": {
-        "name": "/Lotus/Language/Items/OrokinMobileDefenseKeyCName",
-        "description": "/Lotus/Language/Items/OrokinMobileDefenseKeyCDesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsC"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 40
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerCaptureTier4Key": {
-        "name": "/Lotus/Language/Items/OrokinCaptureT4Name",
-        "description": "/Lotus/Language/Items/OrokinCaptureT4Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsD"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 40
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerDefenseTier4Key": {
-        "name": "/Lotus/Language/Items/OrokinDefenseT4Name",
-        "description": "/Lotus/Language/Items/OrokinDefenseT4Desc",
-        "parentName": "/Lotus/Types/Keys/OrokinDefenseKeyB",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinDefenseRewardsD"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 25
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerExterminateTier4Key": {
-        "name": "/Lotus/Language/Items/OrokinExterminateT4Name",
-        "description": "/Lotus/Language/Items/OrokinExterminateT4Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsD"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 40
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerInterceptionTier4Key": {
-        "name": "/Lotus/Language/Items/OrokinInterceptionT4Name",
-        "description": "/Lotus/Language/Items/OrokinInterceptionT4Desc",
-        "parentName": "/Lotus/Types/Keys/OrokinDefenseKeyB",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinCaptureRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerMobileDefenseTier4Key": {
-        "name": "/Lotus/Language/Items/OrokinMobileDefenseT4Name",
-        "description": "/Lotus/Language/Items/OrokinMobileDefenseT4Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinMobileDefenseRewardsD"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 40
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerSabotageTier1Key": {
-        "name": "/Lotus/Language/Items/OrokinSabotageT1Name",
-        "description": "/Lotus/Language/Items/OrokinSabotageT1Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerSabotageTier2Key": {
-        "name": "/Lotus/Language/Items/OrokinSabotageT2Name",
-        "description": "/Lotus/Language/Items/OrokinSabotageT2Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 11000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsB"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 30
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerSabotageTier3Key": {
-        "name": "/Lotus/Language/Items/OrokinSabotageT3Name",
-        "description": "/Lotus/Language/Items/OrokinSabotageT3Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsC"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 40
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerSabotageTier4Key": {
-        "name": "/Lotus/Language/Items/OrokinSabotageT4Name",
-        "description": "/Lotus/Language/Items/OrokinSabotageT4Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSabotageRewardsD"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 40
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerKeys/OrokinTowerSurvivalTier4Key": {
-        "name": "/Lotus/Language/Items/OrokinSurvivalT4Name",
-        "description": "/Lotus/Language/Items/OrokinSurvivalT4Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsD"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 25
-        }
-    },
-    "/Lotus/Types/Keys/OrokinTowerSurvivalT3Key": {
-        "name": "/Lotus/Language/Items/OrokinSurvivalKey3",
-        "description": "/Lotus/Language/Items/OrokinSurvivalKey3Desc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 17500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsC"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 25
-        }
-    },
     "/Lotus/Types/Keys/ProjectSinisterBonusKey": {
         "name": "/Lotus/Language/Items/ProjectSinisterBonusKey",
         "parentName": "/Lotus/Types/Keys/ProjectSinisterFinalKey",
@@ -7772,71 +7337,11 @@
             "maxEnemyLevel": 20
         }
     },
-    "/Lotus/Types/Keys/QuestKeyA": {
-        "name": "Template Quest Mission 1",
-        "description": "Template mission description",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/QuestKeyB": {
-        "name": "Template Quest Mission 2",
-        "description": "Template mission description",
-        "parentName": "/Lotus/Types/Keys/QuestKeyA",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinSurvivalRewardsA"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 10,
-            "maxEnemyLevel": 15
-        }
-    },
-    "/Lotus/Types/Keys/QuestKeyC": {
-        "name": "Template Quest Mission 3",
-        "description": "Template mission description",
-        "parentName": "/Lotus/Types/Keys/QuestKeyA",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 11000,
-            "droptable": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/OrokinExterminateRewardsB"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 30
-        }
-    },
     "/Lotus/Types/Keys/RaidKeys/BaseRaidKey": {
         "parentName": "/Lotus/Types/Game/KeyItem",
         "codexSecret": true,
         "rewards": [],
         "mission": {}
-    },
-    "/Lotus/Types/Keys/RailjackKeyHuntMission": {
-        "name": "/Lotus/Language/Quests/ReliquaryKeyHunt",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "items": [
-                "/Lotus/StoreItems/Types/Items/ShipFeatureItems/RailjackKeyShipFeatureItem"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 25
-        }
     },
     "/Lotus/Types/Keys/RelayEvent1KeyA1": {
         "parentName": "/Lotus/Types/Game/KeyItem",
@@ -7988,21 +7493,6 @@
         "rewards": [],
         "mission": {
             "minEnemyLevel": 30,
-            "maxEnemyLevel": 35
-        }
-    },
-    "/Lotus/Types/Keys/SortieBossKeyLephantis": {
-        "name": "/Lotus/Language/Items/OrokinDerelictBossKey",
-        "description": "/Lotus/Language/Items/OrokinDerelictBossKeyDesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 7500,
-            "droptable": "/Lotus/Types/Game/MissionDecks/GolemMissionRewards"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 25,
             "maxEnemyLevel": 35
         }
     },
@@ -8838,7 +8328,7 @@
         }
     },
     "/Lotus/Types/Keys/TauPrequel/TauPrequelQuestKeyBase": {
-        "name": "[HC] TAU PREQUEL",
+        "name": "/Lotus/Language/TauPrologue/QuestSelectorTitle",
         "parentName": "/Lotus/Types/Game/KeyItem",
         "codexSecret": true,
         "rewards": [],
@@ -9275,249 +8765,6 @@
         "mission": {
             "minEnemyLevel": 27,
             "maxEnemyLevel": 30
-        }
-    },
-    "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyTeshinCaptureC": {
-        "name": "/Lotus/Language/G1Quests/WarWithin5",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 30,
-            "maxEnemyLevel": 32
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/BaroWeeklyMission": {
-        "name": "/Lotus/Language/Alerts/BaroWeeklyObjective",
-        "description": "/Lotus/Language/Alerts/BaroWeeklyObjectiveDesc",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Restoratives/Consumable/SkateBall"
-            ],
-            "droptable": "/Lotus/Types/Game/MissionDecks/BaroWeeklyMissionRewards"
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 20,
-            "maxEnemyLevel": 30
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelict": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelictA": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelict",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexA"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelictB": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelict",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexB"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelictC": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelict",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexC"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelictD": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelict",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexD"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelictE": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionDerelict",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexE"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionMoon": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokin": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Game/KeyItems/VoidKeyItem",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokinA": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokin",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexA"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokinB": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokin",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexB"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokinC": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokin",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexC"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokinD": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokin",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexD"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokinE": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokin",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexE"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
-        }
-    },
-    "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokinG": {
-        "name": "/Lotus/Language/G1Quests/TreasureHuntWeeklyObjective",
-        "parentName": "/Lotus/Types/Keys/WeeklyMissions/TreasureHuntMissionOrokin",
-        "codexSecret": true,
-        "missionReward": {
-            "credits": 10000,
-            "items": [
-                "/Lotus/StoreItems/Types/Items/FusionTreasures/OroFusexG"
-            ]
-        },
-        "rewards": [],
-        "mission": {
-            "minEnemyLevel": 15,
-            "maxEnemyLevel": 20
         }
     },
     "/Lotus/Types/Keys/WolfTacAlertA": {
