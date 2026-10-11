@@ -22146,7 +22146,7 @@
                 "canBeCurse": true,
                 "upgradeValues": [
                     {
-                        "value": -0.001,
+                        "value": -0.005,
                         "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
                         "reverseValueSymbol": true
                     }
@@ -22727,6 +22727,188 @@
                     {
                         "value": 0.00653,
                         "locTag": "/Lotus/Language/Upgrades/MeleeComboGainExtraChance"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMeleeHeavyAttackDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.0133,
+                        "locTag": "/Lotus/Language/Upgrades/MeleeDamageBuffOnHeavyDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMeleeHeavyAttackChargeMod",
+                "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.0133,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponHeavyChargeSpeed"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMeleeParryAngleMod",
+                "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.009,
+                        "locTag": "/Lotus/Language/Upgrades/ParryAngleNoPercentModDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMeleeSlamDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MeleeComboGainBonusPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MeleeComboGainBonusSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.0133,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponMeleeSlamDmgBonusModDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponGasDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/GasPrefix",
+                "suffixTag": "/Lotus/Language/Omega/GasSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponGasDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponCorrosiveDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/CorrosivePrefix",
+                "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponCorrosiveDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponViralDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/ViralPrefix",
+                "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponViralDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponRadiationDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/RadiationPrefix",
+                "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponRadiationDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponBlastDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/BlastPrefix",
+                "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponExplosionDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMagneticDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MagneticPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponMagneticDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageOrokin",
+                "prefixTag": "/Lotus/Language/Omega/OrokinDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageCorruptedDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageTechrot",
+                "prefixTag": "/Lotus/Language/Omega/TechrotDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageTechrotDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageScaldra",
+                "prefixTag": "/Lotus/Language/Omega/ScaldraDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponStatusDamage",
+                "prefixTag": "/Lotus/Language/Omega/StatusDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponStatusDamage"
                     }
                 ]
             }
@@ -24335,6 +24517,189 @@
                     {
                         "value": 0.0089,
                         "locTag": "/Lotus/Language/Upgrades/WeaponZoomModDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponWeakpointDamage",
+                "prefixTag": "/Lotus/Language/Omega/WeakpointPrefix",
+                "suffixTag": "/Lotus/Language/Omega/WeakpointSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.025,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponWeakpointDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponWeakpointCriticalChance",
+                "prefixTag": "/Lotus/Language/Omega/WeakpointCriticalPrefix",
+                "suffixTag": "/Lotus/Language/Omega/WeakpointCriticalSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.0275,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponWeakpointCriticalChance"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponAmmoEfficiency",
+                "prefixTag": "/Lotus/Language/Omega/AmmoEfficiencyPrefix",
+                "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": -0.005,
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
+                        "reverseValueSymbol": true
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMagazineReloadHolstered",
+                "prefixTag": "/Lotus/Language/Omega/AmmoEfficiencyPrefix",
+                "suffixTag": "/Lotus/Language/Omega/AmmoEfficiencySuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponHolsteredAutoReloadRate"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponStatusDamage",
+                "prefixTag": "/Lotus/Language/Omega/StatusDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponStatusDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponGasDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/GasPrefix",
+                "suffixTag": "/Lotus/Language/Omega/GasSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponGasDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponCorrosiveDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/CorrosivePrefix",
+                "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponCorrosiveDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponViralDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/ViralPrefix",
+                "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponViralDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponRadiationDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/RadiationPrefix",
+                "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponRadiationDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponBlastDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/BlastPrefix",
+                "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponExplosionDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMagneticDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MagneticPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponMagneticDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageOrokin",
+                "prefixTag": "/Lotus/Language/Omega/OrokinDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageCorruptedDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageTechrot",
+                "prefixTag": "/Lotus/Language/Omega/TechrotDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageTechrotDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageScaldra",
+                "prefixTag": "/Lotus/Language/Omega/ScaldraDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
                     }
                 ]
             }
@@ -25949,7 +26314,7 @@
                 "canBeCurse": true,
                 "upgradeValues": [
                     {
-                        "value": 0.01,
+                        "value": 0.025,
                         "locTag": "/Lotus/Language/Upgrades/WeaponWeakpointDamage"
                     }
                 ]
@@ -25962,7 +26327,7 @@
                 "canBeCurse": true,
                 "upgradeValues": [
                     {
-                        "value": 0.01,
+                        "value": 0.0275,
                         "locTag": "/Lotus/Language/Upgrades/WeaponWeakpointCriticalChance"
                     }
                 ]
@@ -25975,7 +26340,7 @@
                 "canBeCurse": true,
                 "upgradeValues": [
                     {
-                        "value": -0.001,
+                        "value": -0.005,
                         "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
                         "reverseValueSymbol": true
                     }
@@ -27852,7 +28217,7 @@
                 "canBeCurse": true,
                 "upgradeValues": [
                     {
-                        "value": -0.001,
+                        "value": -0.005,
                         "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
                         "reverseValueSymbol": true
                     }
@@ -29727,7 +30092,7 @@
                 "canBeCurse": true,
                 "upgradeValues": [
                     {
-                        "value": -0.001,
+                        "value": -0.005,
                         "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
                         "reverseValueSymbol": true
                     }
@@ -29873,6 +30238,19 @@
                     {
                         "value": 0.005,
                         "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponZoomFovMod",
+                "prefixTag": "/Lotus/Language/Omega/ZoomPrefix",
+                "suffixTag": "/Lotus/Language/Omega/ZoomSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.004666,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponZoomModDesc"
                     }
                 ]
             }
@@ -31508,7 +31886,7 @@
                 "canBeCurse": false,
                 "upgradeValues": [
                     {
-                        "value": 0.09,
+                        "value": 0.009,
                         "locTag": "/Lotus/Language/Upgrades/ParryAngleNoPercentModDesc"
                     }
                 ]
@@ -31523,6 +31901,136 @@
                     {
                         "value": 0.0133,
                         "locTag": "/Lotus/Language/Upgrades/WeaponMeleeSlamDmgBonusModDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponGasDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/GasPrefix",
+                "suffixTag": "/Lotus/Language/Omega/GasSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponGasDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponCorrosiveDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/CorrosivePrefix",
+                "suffixTag": "/Lotus/Language/Omega/CorrosiveSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponCorrosiveDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponViralDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/ViralPrefix",
+                "suffixTag": "/Lotus/Language/Omega/ViralSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponViralDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponRadiationDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/RadiationPrefix",
+                "suffixTag": "/Lotus/Language/Omega/RadiationSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponRadiationDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponBlastDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/BlastPrefix",
+                "suffixTag": "/Lotus/Language/Omega/BlastSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponExplosionDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponMagneticDamageMod",
+                "prefixTag": "/Lotus/Language/Omega/MagneticPrefix",
+                "suffixTag": "/Lotus/Language/Omega/MagneticSuffix",
+                "canBeBuff": true,
+                "canBeCurse": false,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponMagneticDamage"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageOrokin",
+                "prefixTag": "/Lotus/Language/Omega/OrokinDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/OrokinDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageCorruptedDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageTechrot",
+                "prefixTag": "/Lotus/Language/Omega/TechrotDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/TechrotDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageTechrotDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponFactionDamageScaldra",
+                "prefixTag": "/Lotus/Language/Omega/ScaldraDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/ScaldraDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.005,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponFactionDamageScaldraDesc"
+                    }
+                ]
+            },
+            {
+                "tag": "WeaponStatusDamage",
+                "prefixTag": "/Lotus/Language/Omega/StatusDamagePrefix",
+                "suffixTag": "/Lotus/Language/Omega/StatusDamageSuffix",
+                "canBeBuff": true,
+                "canBeCurse": true,
+                "upgradeValues": [
+                    {
+                        "value": 0.01,
+                        "locTag": "/Lotus/Language/Upgrades/WeaponStatusDamage"
                     }
                 ]
             }

@@ -3832,7 +3832,7 @@
         "titleTag": "/Lotus/Language/Titles/FrostTitle"
     },
     "/Lotus/Types/Items/Titles/RoatheTitles/FrumentariusTitle": {
-        "name": "/Lotus/Language/Titles/Frumentarius_MarketTitle",
+        "name": "/Lotus/Language/Titles/FrumentariusTitle_MarketTitle",
         "description": "An Honoria for your profile.",
         "base": "/Lotus/Types/Items/Titles/RoatheTitles/TitleItem",
         "codexSecret": false,
@@ -6291,6 +6291,15 @@
         "platinumCost": 20,
         "excludeFromMarket": true
     },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAztecross": {
+        "name": "/Lotus/Language/Glyphs/AztecrossName",
+        "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ContentCreators/Aztecross.png",
+        "base": "/Lotus/Types/Items/",
+        "codexSecret": true,
+        "platinumCost": 20,
+        "excludeFromMarket": true
+    },
     "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBBSChainWarden": {
         "name": "/Lotus/Language/Glyphs/BBSChainWardenGlyphName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
@@ -7755,6 +7764,15 @@
         "name": "/Lotus/Language/Glyphs/IrisillychName",
         "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
         "icon": "/Lotus/Interface/Icons/Player/ContentCreators/Irisillych.png",
+        "base": "/Lotus/Types/Items/",
+        "codexSecret": true,
+        "platinumCost": 20,
+        "excludeFromMarket": true
+    },
+    "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIronmouse": {
+        "name": "/Lotus/Language/Glyphs/IronmouseName",
+        "description": "/Lotus/Language/Glyphs/GenericGlyphDesc",
+        "icon": "/Lotus/Interface/Icons/Player/ContentCreators/Ironmouse.png",
         "base": "/Lotus/Types/Items/",
         "codexSecret": true,
         "platinumCost": 20,
