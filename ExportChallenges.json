@@ -1,4 +1,14 @@
 {
+    "/Lotus/Types/Challenges/ByDawnsEarlyLight": {
+        "name": "/Lotus/Language/Challenges/Challenge_ByDawnsEarlyLight_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ByDawnsEarlyLight_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/PoENightTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
     "/Lotus/Types/Challenges/Calendar1999/CalendarDestroyPropsBase": {
         "name": "/Lotus/Language/1999Challenges/Challenge_CalendarDestroyProps_Name",
         "description": "/Lotus/Language/1999Challenges/Challenge_CalendarDestroyProps_Description",
@@ -575,6 +585,86 @@
         "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabUnstableDocketsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabUnstableDocketsChallenge.png",
         "requiredCount": 1
+    },
+    "/Lotus/Types/Challenges/ForgedInFire": {
+        "name": "/Lotus/Language/Challenges/Challenge_ForgedInFire_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_ForgedInFire_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/ForgedInFireTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/FromOnHigh": {
+        "name": "/Lotus/Language/Challenges/Challenge_FromOnHigh_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_FromOnHigh_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/FromOnHighTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Kaboom": {
+        "name": "/Lotus/Language/Challenges/Challenge_Kaboom_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_Kaboom_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/KaboomTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Kill100InMission": {
+        "name": "/Lotus/Language/Challenges/Challenge_Kill100InMission_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_Kill100InMission_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/Kills100Title",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/KillPhorid": {
+        "name": "/Lotus/Language/Challenges/Challenge_KillPhorid_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_KillPhorid_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/KillPhoridTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Mercenary2": {
+        "name": "/Lotus/Language/Challenges/Challenge_Mercenary2_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_Mercenary2_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/Mercenary5InvasionsTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/NoWitnesses": {
+        "name": "/Lotus/Language/Challenges/Challenge_NoWitnesses_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_NoWitnesses_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/StealthKills100Title",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/OrbVallisRacer": {
+        "name": "/Lotus/Language/Challenges/Challenge_OrbVallisRacer_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_OrbVallisRacer_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/KRacerTitle",
+                "ItemCount": 1
+            }
+        ]
     },
     "/Lotus/Types/Challenges/Seasons/Daily/SeasonDailyAFirmShake": {
         "name": "/Lotus/Language/NightwaveChallenges/Challenge_SeasonDailyAFirmShake_Name",
@@ -2266,6 +2356,26 @@
             "highPriority": true
         }
     },
+    "/Lotus/Types/Challenges/SharpShooter": {
+        "name": "/Lotus/Language/Challenges/Challenge_SharpShooter_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_SharpShooter_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/SharpShooterTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/SolveCipherUnder5Seconds": {
+        "name": "/Lotus/Language/Challenges/Challenge_SolveCipherUnder5Seconds_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_SolveCipherUnder5Seconds_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/SolveCipherUnder5Title",
+                "ItemCount": 1
+            }
+        ]
+    },
     "/Lotus/Types/Challenges/StarChart/DeimosToJupiter/DJCompleteQuest": {
         "name": "/Lotus/Language/Challenges/Challenge_DJCompleteQuest_Name",
         "countedRewards": [
@@ -3069,6 +3179,16 @@
             "highPriority": true
         }
     },
+    "/Lotus/Types/Challenges/TheCameraAdds100Pounds": {
+        "name": "/Lotus/Language/Challenges/Challenge_TheCameraAdds100Pounds_Name",
+        "description": "/Lotus/Language/Challenges/Challenge_TheCameraAdds100Pounds_Description",
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/TheCameraAdds100Title",
+                "ItemCount": 1
+            }
+        ]
+    },
     "/Lotus/Types/Challenges/Titles/AirHunterTitleChallenge": {
         "countedRewards": [
             {
@@ -3077,10 +3197,58 @@
             }
         ]
     },
+    "/Lotus/Types/Challenges/Titles/AmirCampaignAnnoyTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/AmirCampaignAnnoyTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/AmirCampaignButterfingersTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/AmirCampaignButterfingersTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/AmirCampaignCompleteTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/AmirCampaignCompleteTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/AmirCampaignLootTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/AmirCampaignLootTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/AnimalLoverTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/AnimalLoverTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
     "/Lotus/Types/Challenges/Titles/ArcaneCollectorTitleChallenge": {
         "countedRewards": [
             {
                 "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/ArcaneCollectorTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/CitrinePrimeTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/CitrinePrimeTitle",
                 "ItemCount": 1
             }
         ]
@@ -3237,6 +3405,34 @@
             }
         ]
     },
+    "/Lotus/Types/Challenges/Titles/DuviriTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/DuviriKingQuestTitle",
+                "ItemCount": 1
+            },
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/DuviriQueenQuestTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/EidolonHunterTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/EidolonHunterTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/FisherTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/FisherTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
     "/Lotus/Types/Challenges/Titles/FollieHuntCompleteTitleChallenge": {
         "countedRewards": [
             {
@@ -3297,6 +3493,14 @@
         "countedRewards": [
             {
                 "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/HunhullsKillerTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/JadeShadows2TitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/JadeShadows2Title",
                 "ItemCount": 1
             }
         ]
@@ -3501,6 +3705,14 @@
             }
         ]
     },
+    "/Lotus/Types/Challenges/Titles/OrbHunterTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/OrbHunterTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
     "/Lotus/Types/Challenges/Titles/PeritaHardModeSoloTitleChallenge": {
         "countedRewards": [
             {
@@ -3513,6 +3725,30 @@
         "countedRewards": [
             {
                 "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/PeritaHardModeTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/RailjackAshTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/RailjackAshTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/RailjackGarudaTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/RailjackGarudaTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/RoadToTauChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/RoadToTauTitle",
                 "ItemCount": 1
             }
         ]
@@ -3557,6 +3793,22 @@
             }
         ]
     },
+    "/Lotus/Types/Challenges/Titles/TheHexCompleteTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/TheHexCompleteTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/TheHexFinaleTitleChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/TheHexFinaleTitle",
+                "ItemCount": 1
+            }
+        ]
+    },
     "/Lotus/Types/Challenges/Titles/TheNewWarTitleChallenge": {
         "countedRewards": [
             {
@@ -3577,6 +3829,14 @@
         "countedRewards": [
             {
                 "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/TitleGrendelPrime",
+                "ItemCount": 1
+            }
+        ]
+    },
+    "/Lotus/Types/Challenges/Titles/TitleStyanaxPrimeChallenge": {
+        "countedRewards": [
+            {
+                "StoreItem": "/Lotus/StoreItems/Types/Items/Titles/TitleStyanaxPrime",
                 "ItemCount": 1
             }
         ]
@@ -3694,198 +3954,198 @@
         "requiredCount": 1
     },
     "/Lotus/Types/Challenges/Vania/VaniaAbilityKillEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaAbilityKill.png",
         "requiredCount": 10
     },
     "/Lotus/Types/Challenges/Vania/VaniaAbilityKillHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaAbilityKill.png",
         "requiredCount": 30
     },
     "/Lotus/Types/Challenges/Vania/VaniaAbilityKillNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaAbilityKill.png",
         "requiredCount": 20
     },
     "/Lotus/Types/Challenges/Vania/VaniaAbilityKillVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaAbilityKillChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaAbilityKill.png",
         "requiredCount": 40
     },
     "/Lotus/Types/Challenges/Vania/VaniaCaptureTargetsEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaCaptureTargets.png",
         "requiredCount": 1
     },
     "/Lotus/Types/Challenges/Vania/VaniaCaptureTargetsHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaCaptureTargets.png",
         "requiredCount": 3
     },
     "/Lotus/Types/Challenges/Vania/VaniaCaptureTargetsNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaCaptureTargets.png",
         "requiredCount": 2
     },
     "/Lotus/Types/Challenges/Vania/VaniaCaptureTargetsVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaCaptureTargetsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaCaptureTargets.png",
         "requiredCount": 3
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyBackpacksEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyBackpack.png",
         "requiredCount": 3
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyBackpacksHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyBackpack.png",
         "requiredCount": 9
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyBackpacksNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyBackpack.png",
         "requiredCount": 6
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyBackpacksVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyBackpacksChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyBackpack.png",
         "requiredCount": 12
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyHazardsEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyHazards.png",
         "requiredCount": 2
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyHazardsHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyHazards.png",
         "requiredCount": 7
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyHazardsNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyHazards.png",
         "requiredCount": 5
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyHazardsVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyHazardsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyHazards.png",
         "requiredCount": 10
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyPropsEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyProps.png",
         "requiredCount": 20
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyPropsHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyProps.png",
         "requiredCount": 50
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyPropsNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyProps.png",
         "requiredCount": 30
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyPropsVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyPropsChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyProps.png",
         "requiredCount": 75
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroySpeakersEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroySpeakers.png",
         "requiredCount": 5
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroySpeakersHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroySpeakers.png",
         "requiredCount": 15
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroySpeakersNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroySpeakers.png",
         "requiredCount": 10
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroySpeakersVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroySpeakersChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroySpeakers.png",
         "requiredCount": 20
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyVehiclesEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyVehicles.png",
         "requiredCount": 5
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyVehiclesHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyVehicles.png",
         "requiredCount": 12
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyVehiclesNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyVehicles.png",
         "requiredCount": 8
     },
     "/Lotus/Types/Challenges/Vania/VaniaDestroyVehiclesVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaDestroyVehiclesChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaDestroyVehicles.png",
         "requiredCount": 16
     },
@@ -3897,30 +4157,30 @@
         "requiredCount": 1
     },
     "/Lotus/Types/Challenges/Vania/VaniaHighKillEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaHighKill.png",
         "requiredCount": 10
     },
     "/Lotus/Types/Challenges/Vania/VaniaHighKillHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaHighKill.png",
         "requiredCount": 35
     },
     "/Lotus/Types/Challenges/Vania/VaniaHighKillNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaHighKill.png",
         "requiredCount": 20
     },
     "/Lotus/Types/Challenges/Vania/VaniaHighKillVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaHighKillChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaHighKill.png",
         "requiredCount": 50
     },
@@ -3932,30 +4192,30 @@
         "requiredCount": 1
     },
     "/Lotus/Types/Challenges/Vania/VaniaMercyEasy": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyEasy_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyEasy_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyEasy_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaMercy.png",
         "requiredCount": 2
     },
     "/Lotus/Types/Challenges/Vania/VaniaMercyHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaMercy.png",
         "requiredCount": 6
     },
     "/Lotus/Types/Challenges/Vania/VaniaMercyNormal": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyNormal_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyNormal_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyNormal_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaMercy.png",
         "requiredCount": 4
     },
     "/Lotus/Types/Challenges/Vania/VaniaMercyVeryHard": {
-        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyVeryHard_Name",
-        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyVeryHard_Desc",
-        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyVeryHard_Flavor",
+        "name": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Name",
+        "description": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Desc",
+        "flavour": "/Lotus/Language/1999Bounties/Challenge_VaniaMercyChallenge_Flavor",
         "icon": "/Lotus/Interface/Quests/Vania/VaniaMercy.png",
         "requiredCount": 8
     },

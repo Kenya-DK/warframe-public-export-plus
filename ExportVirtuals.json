@@ -109,8 +109,11 @@
     "/Lotus/Types/Game/KeyItem": {
         "parentName": "/Lotus/Types/Game/"
     },
+    "/Lotus/Types/Game/KeyItems/DerelictKeyItem": {
+        "parentName": "/Lotus/Types/Game/KeyItem"
+    },
     "/Lotus/Types/Game/KeyItems/VoidKeyItem": {
-        "parentName": "/Lotus/Types/Game/KeyItems/KeyItem",
+        "parentName": "/Lotus/Types/Game/KeyItem",
         "name": "/Lotus/Language/Items/VoidKeyName"
     },
     "/Lotus/Types/Game/KubrowPet/Eggs/KubrowPetEggItem": {
@@ -183,28 +186,28 @@
         "name": "/Lotus/Language/Items/OrokinCell"
     },
     "/Lotus/Types/Items/Fish/Deimos/CommonFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Deimos/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Deimos/LegendaryFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Deimos/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Deimos/RareFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Deimos/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Deimos/UncommonFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Deimos/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Eidolon/CommonFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Eidolon/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Eidolon/LegendaryFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Eidolon/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Eidolon/RareFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Eidolon/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Eidolon/UncommonFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Eidolon/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/FishItem": {
         "parentName": "/Lotus/Types/Items/Fish/"
@@ -213,22 +216,22 @@
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
     },
     "/Lotus/Types/Items/Fish/Solaris/CommonFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Solaris/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Solaris/LegendaryFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Solaris/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Solaris/RareFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Solaris/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/Fish/Solaris/UncommonFishItem": {
-        "parentName": "/Lotus/Types/Items/Fish/Solaris/FishItem"
+        "parentName": "/Lotus/Types/Items/Fish/FishItem"
     },
     "/Lotus/Types/Items/FusionTreasure": {
         "parentName": "/Lotus/Types/Items/"
     },
     "/Lotus/Types/Items/FusionTreasures/FusionOrnament": {
-        "parentName": "/Lotus/Types/Items/FusionTreasures/FusionTreasure"
+        "parentName": "/Lotus/Types/Items/FusionTreasure"
     },
     "/Lotus/Types/Items/Gems/GemItem": {
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem"
@@ -243,10 +246,10 @@
         "parentName": "/Lotus/Types/Items/MiscItems/"
     },
     "/Lotus/Types/Items/MiscItems/IncarnonAdapters/BaseIncarnonUnlocker": {
-        "parentName": "/Lotus/Types/Items/MiscItems/IncarnonAdapters/MiscItemBase"
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
     },
     "/Lotus/Types/Items/MiscItems/LastWishItems/CrystalBase": {
-        "parentName": "/Lotus/Types/Items/MiscItems/LastWishItems/MiscItemBase"
+        "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase"
     },
     "/Lotus/Types/Items/MiscItems/MiscItemBase": {
         "parentName": "/Lotus/Types/Items/MiscItems/"
@@ -394,6 +397,15 @@
     "/Lotus/Types/Weapon/LotusWeaponAmpOculus": {
         "parentName": "/Lotus/Types/Weapon/"
     },
+    "/Lotus/Types/Weapon/LotusWeaponBlade": {
+        "parentName": "/Lotus/Types/Weapon/"
+    },
+    "/Lotus/Types/Weapon/LotusWeaponHilt": {
+        "parentName": "/Lotus/Types/Weapon/"
+    },
+    "/Lotus/Types/Weapon/LotusWeaponWeight": {
+        "parentName": "/Lotus/Types/Weapon/"
+    },
     "/Lotus/Weapons/Archon/Melee/DualDaggers/ArchonDualDaggersWep": {
         "parentName": "/Lotus/Weapons/Tenno/Melee/LotusDualDagger",
         "name": "/Lotus/Language/Weapons/ArchonDualDaggersName"
@@ -453,6 +465,15 @@
     "/Lotus/Weapons/Operator/Melee/DrifterTazer/DrifterTazerWep": {
         "parentName": "/Lotus/Weapons/Tenno/Melee/LotusDagger",
         "name": "/Lotus/Language/Weapons/DrifterTazerName"
+    },
+    "/Lotus/Weapons/Ostron/Melee/LotusWeaponBlade": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponBlade"
+    },
+    "/Lotus/Weapons/Ostron/Melee/LotusWeaponHilt": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponHilt"
+    },
+    "/Lotus/Weapons/Ostron/Melee/LotusWeaponWeight": {
+        "parentName": "/Lotus/Types/Weapon/LotusWeaponWeight"
     },
     "/Lotus/Weapons/Sentients/OperatorAmplifiers/LotusWeaponAmpBrace": {
         "parentName": "/Lotus/Types/Weapon/LotusWeaponAmpBrace"

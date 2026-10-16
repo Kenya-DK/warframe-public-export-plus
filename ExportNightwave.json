@@ -2071,7 +2071,9 @@
         },
         {
             "uniqueName": "/Lotus/Types/Items/Titles/ShockwaveTitle",
-            "name": "/Lotus/Language/Titles/ShockwaveTitle_MarketTitle"
+            "name": "/Lotus/Language/Titles/ShockwaveTitle_MarketTitle",
+            "description": "/Lotus/Language/Titles/GenericTitle_MarketDescription",
+            "icon": "/Lotus/Interface/Icons/StoreIcons/MiscItems/GenericHonoriaIcon.png"
         },
         {
             "uniqueName": "/Lotus/Types/StoreItems/Packages/OperatorSuitNightwave1999Bundle",
