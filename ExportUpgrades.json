@@ -19760,7 +19760,8 @@
         "compatName": "Grendel",
         "type": "WARFRAME",
         "subtype": "/Lotus/Powersuits/Devourer/DevourerBaseSuit",
-        "tradable": true
+        "tradable": true,
+        "introducedAt": 1790175780
     },
     "/Lotus/Powersuits/Devourer/DevourerDevourAugmentCard": {
         "name": "/Lotus/Language/Suits/GrendelDevour2AbilityAugment1Name",
@@ -19820,7 +19821,8 @@
         "compatName": "Uriel",
         "type": "WARFRAME",
         "subtype": "/Lotus/Powersuits/DemonFrame/DemonFrameBaseSuit",
-        "tradable": true
+        "tradable": true,
+        "introducedAt": 1790175780
     },
     "/Lotus/Powersuits/Dagath/DagathApparitionAugmentCard": {
         "name": "/Lotus/Language/Suits/DagathApparitionAbilityAugment1Name",
@@ -20242,7 +20244,7 @@
         "type": "WARFRAME",
         "subtype": "/Lotus/Powersuits/Banshee/BansheeBaseSuit",
         "tradable": true,
-        "introducedAt": 1432760901
+        "introducedAt": 1790175780
     },
     "/Lotus/Powersuits/Banshee/EarthQuakeAugmentCard": {
         "name": "/Lotus/Language/Suits/SoundquakeAbilityAugment1Name",
@@ -22194,8 +22196,7 @@
                 "upgradeValues": [
                     {
                         "value": -0.005,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -24897,8 +24898,7 @@
                 "upgradeValues": [
                     {
                         "value": -0.005,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -26865,8 +26865,7 @@
                 "upgradeValues": [
                     {
                         "value": -0.005,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -28908,8 +28907,7 @@
                 "upgradeValues": [
                     {
                         "value": -0.005,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -30942,8 +30940,7 @@
                 "upgradeValues": [
                     {
                         "value": -0.005,
-                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc",
-                        "reverseValueSymbol": true
+                        "locTag": "/Lotus/Language/Upgrades/RadiationAmmoEfficiencyPistolModDesc"
                     }
                 ]
             },
@@ -36227,8 +36224,7 @@
         "compatName": "WARFRAME",
         "type": "WARFRAME",
         "isFrivolous": true,
-        "tradable": false,
-        "introducedAt": 9999999999
+        "tradable": false
     },
     "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarAbilityRangeModExpert": {
         "name": "/Lotus/Language/Items/WarframeModAbilityRange",

@@ -1245,7 +1245,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/VorunaPAO",
-        "introducedAt": 1775660482
+        "introducedAt": 1775660482,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeDGold": {
         "category": "S20",
@@ -1255,7 +1256,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/VorunaPAO",
-        "introducedAt": 1775660482
+        "introducedAt": 1775660482,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeDPlatinum": {
         "category": "S20",
@@ -1265,7 +1267,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/VorunaPAO",
-        "introducedAt": 1775660482
+        "introducedAt": 1775660482,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeDBronze": {
         "category": "S20",
@@ -1275,7 +1278,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/VorunaPAO",
-        "introducedAt": 1775660482
+        "introducedAt": 1775660482,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionVorunaPrimeCSilver": {
         "category": "C11",
@@ -2100,7 +2104,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionSevagothHydroidVaultBGold": {
         "category": "N14",
@@ -2109,7 +2115,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionSevagothHydroidVaultBPlatinum": {
         "category": "N14",
@@ -2118,7 +2126,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionSevagothHydroidVaultBBronze": {
         "category": "N14",
@@ -2127,7 +2137,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultF",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionSevagothHydroidVaultASilver": {
         "category": "B10",
@@ -2136,7 +2148,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultE",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionSevagothHydroidVaultAGold": {
         "category": "B10",
@@ -2145,7 +2159,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultE",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionSevagothHydroidVaultAPlatinum": {
         "category": "B10",
@@ -2154,7 +2170,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultE",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionSevagothHydroidVaultABronze": {
         "category": "B10",
@@ -2163,7 +2181,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultE",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionSarynValkyrVaultBSilver": {
         "category": "S5",
@@ -2744,7 +2764,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultF",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultAGold": {
         "category": "A23",
@@ -2753,7 +2775,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultF",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultAPlatinum": {
         "category": "A23",
@@ -2762,7 +2786,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultF",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionProteaIvaraVaultABronze": {
         "category": "A23",
@@ -2771,7 +2797,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultF",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionPSilver": {
         "category": "A2",
@@ -6197,7 +6225,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/GyrePAQ",
-        "introducedAt": 1765382829
+        "introducedAt": 1765382829,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeBGold": {
         "category": "T13",
@@ -6207,7 +6236,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/GyrePAQ",
-        "introducedAt": 1765382829
+        "introducedAt": 1765382829,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeBPlatinum": {
         "category": "T13",
@@ -6217,7 +6247,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/GyrePAQ",
-        "introducedAt": 1765382829
+        "introducedAt": 1765382829,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeBBronze": {
         "category": "T13",
@@ -6227,7 +6258,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/GyrePAQ",
-        "introducedAt": 1765382829
+        "introducedAt": 1765382829,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionGyrePrimeASilver": {
         "category": "A20",
@@ -7549,6 +7581,42 @@
         "introducedAt": 1467987168,
         "vaultedAt": 1488321889
     },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCSilver": {
+        "category": "C13",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiA.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_SILVER",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCGold": {
+        "category": "C13",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiB.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_GOLD",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCPlatinum": {
+        "category": "C13",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiC.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_PLATINUM",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP"
+    },
+    "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeCBronze": {
+        "category": "C13",
+        "era": "Axi",
+        "icon": "/Lotus/Interface/Icons/Relics/RelicAxiD.png",
+        "codexSecret": false,
+        "description": "/Lotus/Language/Items/ProjectionDescription",
+        "quality": "VPQ_BRONZE",
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP"
+    },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeBSilver": {
         "category": "C12",
         "era": "Axi",
@@ -7556,7 +7624,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAO"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAO",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeBGold": {
         "category": "C12",
@@ -7565,7 +7634,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAO"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAO",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeBPlatinum": {
         "category": "C12",
@@ -7574,7 +7644,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAO"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAO",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeBBronze": {
         "category": "C12",
@@ -7583,7 +7654,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAO"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAO",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeASilver": {
         "category": "S21",
@@ -7592,7 +7664,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAN"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAN",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeAGold": {
         "category": "S21",
@@ -7601,7 +7674,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAN"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAN",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeAPlatinum": {
         "category": "S21",
@@ -7610,7 +7684,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAN"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAN",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionCitrinePrimeABronze": {
         "category": "S21",
@@ -7619,7 +7694,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAN"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAN",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T4VoidProjectionChromaZephyrVaultASilver": {
         "category": "G5",
@@ -10657,7 +10733,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAR",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFGold": {
         "category": "V12",
@@ -10667,7 +10744,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAR",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFPlatinum": {
         "category": "V12",
@@ -10677,7 +10755,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAR",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeFBronze": {
         "category": "V12",
@@ -10687,7 +10766,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAR",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeESilver": {
         "category": "C9",
@@ -10697,7 +10777,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAN",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeEGold": {
         "category": "C9",
@@ -10707,7 +10788,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAN",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeEPlatinum": {
         "category": "C9",
@@ -10717,7 +10799,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAN",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeEBronze": {
         "category": "C9",
@@ -10727,7 +10810,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAN",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeDSilver": {
         "category": "Y1",
@@ -10737,7 +10821,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAM",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeDGold": {
         "category": "Y1",
@@ -10747,7 +10832,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAM",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeDPlatinum": {
         "category": "Y1",
@@ -10757,7 +10843,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAM",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeDBronze": {
         "category": "Y1",
@@ -10767,7 +10854,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAM",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeCSilver": {
         "category": "T11",
@@ -10777,7 +10865,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAL",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeCGold": {
         "category": "T11",
@@ -10787,7 +10876,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAL",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeCPlatinum": {
         "category": "T11",
@@ -10797,7 +10887,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAL",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeCBronze": {
         "category": "T11",
@@ -10807,7 +10898,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAL",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeBSilver": {
         "category": "A16",
@@ -10857,7 +10949,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAJ",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeAGold": {
         "category": "C8",
@@ -10867,7 +10960,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAJ",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeAPlatinum": {
         "category": "C8",
@@ -10877,7 +10971,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAJ",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionStyanaxPrimeABronze": {
         "category": "C8",
@@ -10887,7 +10982,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAJ",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeFSilver": {
         "category": "P7",
@@ -11160,7 +11256,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultD",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothHydroidVaultBGold": {
         "category": "H5",
@@ -11169,7 +11267,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultD",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothHydroidVaultBPlatinum": {
         "category": "H5",
@@ -11178,7 +11278,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultD",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothHydroidVaultBBronze": {
         "category": "H5",
@@ -11187,7 +11289,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultD",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothHydroidVaultASilver": {
         "category": "N25",
@@ -11196,7 +11300,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothHydroidVaultAGold": {
         "category": "N25",
@@ -11205,7 +11311,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothHydroidVaultAPlatinum": {
         "category": "N25",
@@ -11214,7 +11322,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothHydroidVaultABronze": {
         "category": "N25",
@@ -11223,7 +11333,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultC",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionSarynValkyrVaultASilver": {
         "category": "S13",
@@ -11716,7 +11828,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultE",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBGold": {
         "category": "O4",
@@ -11725,7 +11839,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultE",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBPlatinum": {
         "category": "O4",
@@ -11734,7 +11850,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultE",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultBBronze": {
         "category": "O4",
@@ -11743,7 +11861,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultE",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultASilver": {
         "category": "P11",
@@ -11752,7 +11872,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultD",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultAGold": {
         "category": "P11",
@@ -11761,7 +11883,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultD",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultAPlatinum": {
         "category": "P11",
@@ -11770,7 +11894,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultD",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionProteaIvaraVaultABronze": {
         "category": "P11",
@@ -11779,7 +11905,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultD",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionOctaviaPrimeESilver": {
         "category": "N15",
@@ -16356,7 +16484,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAM"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAM",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeEGold": {
         "category": "Y2",
@@ -16365,7 +16494,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAM"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAM",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeEPlatinum": {
         "category": "Y2",
@@ -16374,7 +16504,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAM"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAM",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeEBronze": {
         "category": "Y2",
@@ -16383,7 +16514,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAM"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAM",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeDSilver": {
         "category": "C11",
@@ -16392,7 +16524,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAL"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAL",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeDGold": {
         "category": "C11",
@@ -16401,7 +16534,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAL"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAL",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeDPlatinum": {
         "category": "C11",
@@ -16410,7 +16544,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAL"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAL",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeDBronze": {
         "category": "C11",
@@ -16419,7 +16554,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAL"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAL",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeCSilver": {
         "category": "V13",
@@ -16428,7 +16564,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAK"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAK",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeCGold": {
         "category": "V13",
@@ -16437,7 +16574,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAK"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAK",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeCPlatinum": {
         "category": "V13",
@@ -16446,7 +16584,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAK"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAK",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeCBronze": {
         "category": "V13",
@@ -16455,7 +16594,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAK"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAK",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeBSilver": {
         "category": "K10",
@@ -16464,7 +16604,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAJ"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAJ",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeBGold": {
         "category": "K10",
@@ -16473,7 +16614,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAJ"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAJ",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeBPlatinum": {
         "category": "K10",
@@ -16482,7 +16624,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAJ"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAJ",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeBBronze": {
         "category": "K10",
@@ -16491,7 +16634,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAJ"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAJ",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeASilver": {
         "category": "C10",
@@ -16500,7 +16644,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAI"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAI",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeAGold": {
         "category": "C10",
@@ -16509,7 +16654,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAI"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAI",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeAPlatinum": {
         "category": "C10",
@@ -16518,7 +16664,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAI"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAI",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionCitrinePrimeABronze": {
         "category": "C10",
@@ -16527,7 +16674,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAI"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAI",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T3VoidProjectionChromaZephyrVaultBSilver": {
         "category": "Z8",
@@ -18517,7 +18665,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/VorunaPAF",
-        "introducedAt": 1775660482
+        "introducedAt": 1775660482,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeDGold": {
         "category": "V15",
@@ -18527,7 +18676,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/VorunaPAF",
-        "introducedAt": 1775660482
+        "introducedAt": 1775660482,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeDPlatinum": {
         "category": "V15",
@@ -18537,7 +18687,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/VorunaPAF",
-        "introducedAt": 1775660482
+        "introducedAt": 1775660482,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeDBronze": {
         "category": "V15",
@@ -18547,7 +18698,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/VorunaPAF",
-        "introducedAt": 1775660482
+        "introducedAt": 1775660482,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeCSilver": {
         "category": "D8",
@@ -19077,7 +19229,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAH",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeCGold": {
         "category": "K8",
@@ -19087,7 +19240,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAH",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeCPlatinum": {
         "category": "K8",
@@ -19097,7 +19251,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAH",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeCBronze": {
         "category": "K8",
@@ -19107,7 +19262,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAH",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeBSilver": {
         "category": "Y2",
@@ -19157,7 +19313,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAF",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeAGold": {
         "category": "L5",
@@ -19167,7 +19324,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAF",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeAPlatinum": {
         "category": "L5",
@@ -19177,7 +19335,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAF",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionStyanaxPrimeABronze": {
         "category": "L5",
@@ -19187,7 +19346,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAF",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeDSilver": {
         "category": "F5",
@@ -19372,7 +19532,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultB",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothHydroidVaultAGold": {
         "category": "E8",
@@ -19381,7 +19543,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultB",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothHydroidVaultAPlatinum": {
         "category": "E8",
@@ -19390,7 +19554,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultB",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothHydroidVaultABronze": {
         "category": "E8",
@@ -19399,7 +19565,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultB",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionSarynValkyrVaultASilver": {
         "category": "N8",
@@ -20024,7 +20192,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultC",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBGold": {
         "category": "V16",
@@ -20033,7 +20203,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultC",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBPlatinum": {
         "category": "V16",
@@ -20042,7 +20214,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultC",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultBBronze": {
         "category": "V16",
@@ -20051,7 +20225,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultC",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultASilver": {
         "category": "I3",
@@ -20060,7 +20236,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultB",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultAGold": {
         "category": "I3",
@@ -20069,7 +20247,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultB",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultAPlatinum": {
         "category": "I3",
@@ -20078,7 +20258,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultB",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionProteaIvaraVaultABronze": {
         "category": "I3",
@@ -20087,7 +20269,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultB",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionOctaviaPrimeCSilver": {
         "category": "T4",
@@ -23173,7 +23357,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/GyrePAJ",
-        "introducedAt": 1765382829
+        "introducedAt": 1765382829,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeFGold": {
         "category": "X1",
@@ -23183,7 +23368,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/GyrePAJ",
-        "introducedAt": 1765382829
+        "introducedAt": 1765382829,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeFPlatinum": {
         "category": "X1",
@@ -23193,7 +23379,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/GyrePAJ",
-        "introducedAt": 1765382829
+        "introducedAt": 1765382829,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeFBronze": {
         "category": "X1",
@@ -23203,7 +23390,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/GyrePAJ",
-        "introducedAt": 1765382829
+        "introducedAt": 1765382829,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionGyrePrimeESilver": {
         "category": "A9",
@@ -24792,7 +24980,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAH"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAH",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeDGold": {
         "category": "K9",
@@ -24801,7 +24990,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAH"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAH",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeDPlatinum": {
         "category": "K9",
@@ -24810,7 +25000,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAH"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAH",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeDBronze": {
         "category": "K9",
@@ -24819,7 +25010,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAH"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAH",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeCSilver": {
         "category": "D9",
@@ -24828,7 +25020,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAG"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAG",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeCGold": {
         "category": "D9",
@@ -24837,7 +25030,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAG"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAG",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeCPlatinum": {
         "category": "D9",
@@ -24846,7 +25040,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAG"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAG",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeCBronze": {
         "category": "D9",
@@ -24855,7 +25050,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAG"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAG",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeBSilver": {
         "category": "V17",
@@ -24864,7 +25060,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAF",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeBGold": {
         "category": "V17",
@@ -24873,7 +25070,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAF",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeBPlatinum": {
         "category": "V17",
@@ -24882,7 +25080,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAF",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeBBronze": {
         "category": "V17",
@@ -24891,7 +25090,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAF"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAF",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeASilver": {
         "category": "C11",
@@ -24900,7 +25100,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAE",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeAGold": {
         "category": "C11",
@@ -24909,7 +25110,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAE",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeAPlatinum": {
         "category": "C11",
@@ -24918,7 +25120,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAE",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionCitrinePrimeABronze": {
         "category": "C11",
@@ -24927,7 +25130,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAE"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAE",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T2VoidProjectionChromaZephyrVaultASilver": {
         "category": "R4",
@@ -27353,7 +27557,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAD",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeDGold": {
         "category": "T14",
@@ -27363,7 +27568,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAD",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeDPlatinum": {
         "category": "T14",
@@ -27373,7 +27579,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAD",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeDBronze": {
         "category": "T14",
@@ -27383,7 +27590,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAD",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeCSilver": {
         "category": "V11",
@@ -27433,7 +27641,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAB",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeBGold": {
         "category": "A12",
@@ -27443,7 +27652,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAB",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeBPlatinum": {
         "category": "A12",
@@ -27453,7 +27663,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAB",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeBBronze": {
         "category": "A12",
@@ -27463,7 +27674,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAB",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeASilver": {
         "category": "Q3",
@@ -27473,7 +27685,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAA",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeAGold": {
         "category": "Q3",
@@ -27483,7 +27696,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAA",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeAPlatinum": {
         "category": "Q3",
@@ -27493,7 +27707,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAA",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionStyanaxPrimeABronze": {
         "category": "Q3",
@@ -27503,7 +27718,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/StyanaxPAA",
-        "introducedAt": 1781708746
+        "introducedAt": 1781708746,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeESilver": {
         "category": "G12",
@@ -27732,7 +27948,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothHydroidVaultAGold": {
         "category": "S20",
@@ -27741,7 +27959,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothHydroidVaultAPlatinum": {
         "category": "S20",
@@ -27750,7 +27970,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothHydroidVaultABronze": {
         "category": "S20",
@@ -27759,7 +27981,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/SevagothHydroidVaultA",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionSarynValkyrVaultBSilver": {
         "category": "C5",
@@ -28428,7 +28652,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultA",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultAGold": {
         "category": "B12",
@@ -28437,7 +28663,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultA",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultAPlatinum": {
         "category": "B12",
@@ -28446,7 +28674,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultA",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionProteaIvaraVaultABronze": {
         "category": "B12",
@@ -28455,7 +28685,9 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/ProteaIvaraVaultA",
+        "introducedAt": 1790175780,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionOctaviaPrimeESilver": {
         "category": "I1",
@@ -33428,7 +33660,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAD",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeDGold": {
         "category": "C15",
@@ -33437,7 +33670,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAD",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeDPlatinum": {
         "category": "C15",
@@ -33446,7 +33680,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAD",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeDBronze": {
         "category": "C15",
@@ -33455,7 +33690,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAD"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAD",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeCSilver": {
         "category": "S19",
@@ -33464,7 +33700,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAC",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeCGold": {
         "category": "S19",
@@ -33473,7 +33710,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAC",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeCPlatinum": {
         "category": "S19",
@@ -33482,7 +33720,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAC",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeCBronze": {
         "category": "S19",
@@ -33491,7 +33730,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAC"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAC",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeBSilver": {
         "category": "L8",
@@ -33500,7 +33740,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAB",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeBGold": {
         "category": "L8",
@@ -33509,7 +33750,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAB",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeBPlatinum": {
         "category": "L8",
@@ -33518,7 +33760,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAB",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeBBronze": {
         "category": "L8",
@@ -33527,7 +33770,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAB"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAB",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeASilver": {
         "category": "A13",
@@ -33536,7 +33780,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAA",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeAGold": {
         "category": "A13",
@@ -33545,7 +33790,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAA",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeAPlatinum": {
         "category": "A13",
@@ -33554,7 +33800,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAA",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCitrinePrimeABronze": {
         "category": "A13",
@@ -33563,7 +33810,8 @@
         "codexSecret": false,
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
-        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAA"
+        "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAA",
+        "introducedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionChromaZephyrVaultBSilver": {
         "category": "T6",
@@ -33837,7 +34085,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_SILVER",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CalibanPAF",
-        "introducedAt": 1756220687
+        "introducedAt": 1756220687,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFGold": {
         "category": "K12",
@@ -33847,7 +34096,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_GOLD",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CalibanPAF",
-        "introducedAt": 1756220687
+        "introducedAt": 1756220687,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFPlatinum": {
         "category": "K12",
@@ -33857,7 +34107,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_PLATINUM",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CalibanPAF",
-        "introducedAt": 1756220687
+        "introducedAt": 1756220687,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeFBronze": {
         "category": "K12",
@@ -33867,7 +34118,8 @@
         "description": "/Lotus/Language/Items/ProjectionDescription",
         "quality": "VPQ_BRONZE",
         "rewardManifest": "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CalibanPAF",
-        "introducedAt": 1756220687
+        "introducedAt": 1756220687,
+        "vaultedAt": 1790175780
     },
     "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeESilver": {
         "category": "A10",

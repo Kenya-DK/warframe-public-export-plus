@@ -10005,6 +10005,14 @@
         "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseOrokin",
         "productCategory": "MiscItems"
     },
+    "/Lotus/Types/Items/MiscItems/PhotoboothTileQuestTauNarmerThroneRoom": {
+        "name": "/Lotus/Language/CapturaScenes/PhotoboothQuestTauNarmerThroneRoom",
+        "description": "/Lotus/Language/CapturaScenes/PhotoboothTileDesc",
+        "icon": "/Lotus/Interface/Icons/StoreIcons/Captura/QuestTauNarmerThroneRoom.png",
+        "codexSecret": false,
+        "parentName": "/Lotus/Types/Items/MiscItems/PhotoboothTileBaseQuestReqQuest",
+        "productCategory": "MiscItems"
+    },
     "/Lotus/Types/Items/MiscItems/PhotoboothTileSacrificeCourtyard": {
         "name": "/Lotus/Language/CapturaScenes/PhotoboothSacrificeCourtyard",
         "description": "/Lotus/Language/CapturaScenes/PhotoboothTileUntradeableDesc",
@@ -10361,7 +10369,6 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/ResourceItem",
         "productCategory": "MiscItems",
-        "excludeFromCodex": true,
         "platinumCost": 30,
         "excludeFromMarket": true
     },
@@ -39594,7 +39601,7 @@
         "codexSecret": false,
         "parentName": "/Lotus/Types/Items/MiscItems/MiscItemBase",
         "productCategory": "MiscItems",
-        "primeSellingPrice": 100,
+        "primeSellingPrice": 65,
         "excludeFromMarket": true
     },
     "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeNamiSkylaHandle": {

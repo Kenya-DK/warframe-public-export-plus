@@ -530,13 +530,6 @@
         "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabLootCratesChallenge.png",
         "requiredCount": 3
     },
-    "/Lotus/Types/Challenges/EntratiLab/EntratiLabNearConduitVulnerabilityChallenge": {
-        "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Name",
-        "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Desc",
-        "flavour": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabNearConduitVulnerabilityChallenge_Flavor",
-        "icon": "/Lotus/Interface/Quests/EntratiLabs/EntratiLabNearConduitVulnerabilityChallenge.png",
-        "requiredCount": 1
-    },
     "/Lotus/Types/Challenges/EntratiLab/EntratiLabRangedMechWeakpointChallenge": {
         "name": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Name",
         "description": "/Lotus/Language/EntratiLab/EntratiGeneral/Challenge_EntratiLabRangedMechWeakpointChallenge_Desc",

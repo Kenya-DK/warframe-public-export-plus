@@ -37976,6 +37976,40 @@
             }
         ]
     ],
+    "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/CitrinePAP": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetBlueprint",
+                "itemCount": 1,
+                "rarity": "RARE"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+                "itemCount": 1,
+                "rarity": "UNCOMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Components/FormaBlueprint",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+                "itemCount": 1,
+                "rarity": "COMMON"
+            }
+        ]
+    ],
     "/Lotus/Types/Game/MissionDecks/VoidKeyMissionRewards/EmberLokiFrostVaultA": [
         [
             {
@@ -63007,6 +63041,60 @@
                 "type": "/Lotus/StoreItems/Types/Game/Projections/T2VoidProjectionStyanaxPrimeCBronze",
                 "itemCount": 1,
                 "probability": 0.0244
+            }
+        ]
+    ],
+    "/Supplementals/BossMissionRewards/RazorbackRewards": [
+        [
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/GorgonWraithBlueprint",
+                "itemCount": 1,
+                "probability": 0.1897
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/GorgonWraithBarrel",
+                "itemCount": 1,
+                "probability": 0.1897
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/GorgonWraithReceiver",
+                "itemCount": 1,
+                "probability": 0.1897
+            },
+            {
+                "type": "/Lotus/StoreItems/Types/Recipes/Weapons/WeaponParts/GorgonWraithStock",
+                "itemCount": 1,
+                "probability": 0.1897
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/Pistol/WeaponEventPunctureDamageMod",
+                "itemCount": 1,
+                "probability": 0.0553
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/Rifle/WeaponEventPunctureDamageMod",
+                "itemCount": 1,
+                "probability": 0.0553
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/Shotgun/WeaponEventPunctureDamageMod",
+                "itemCount": 1,
+                "probability": 0.0553
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/Melee/WeaponEventPunctureDamageMod",
+                "itemCount": 1,
+                "probability": 0.0553
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/Archwing/Rifle/ArchwingEventFireStatusRifleMod",
+                "itemCount": 1,
+                "probability": 0.0101
+            },
+            {
+                "type": "/Lotus/StoreItems/Upgrades/Mods/Archwing/Melee/ArchwingEventFireStatusMeleeMod",
+                "itemCount": 1,
+                "probability": 0.0101
             }
         ]
     ],

@@ -4720,7 +4720,8 @@
         "variantType": "VT_PRIME",
         "nemesisUpgradeTag": "InnateMagDamage",
         "platinumCost": 325,
-        "excludeFromMarket": true
+        "excludeFromMarket": true,
+        "introducedAt": 1790175780
     },
     "/Lotus/Powersuits/Garuda/GarudaPrime": {
         "name": "/Lotus/Language/Primes/GarudaPrimeName",
@@ -5456,7 +5457,8 @@
         "productCategory": "Suits",
         "variantType": "VT_NORMAL",
         "nemesisUpgradeTag": "InnateFreezeDamage",
-        "platinumCost": 370
+        "platinumCost": 370,
+        "introducedAt": 1790175780
     },
     "/Lotus/Powersuits/Dragon/Dragon": {
         "name": "/Lotus/Language/Suits/ChromaName",
